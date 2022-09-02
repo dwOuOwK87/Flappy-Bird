@@ -1,3 +1,3 @@
 # Flappy-Bird
 
-download: code -> download zip
+download: Flappy Bird.rar -> download
